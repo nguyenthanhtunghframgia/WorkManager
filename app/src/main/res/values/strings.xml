@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">WorkManager</string>
-    <string name="todo">TODO</string>
+    <string name="text_5">5S</string>
+    <string name="text_10">10S</string>
+    <string name="text_15">15S</string>
+    <string name="text_20">20S</string>
+    <string name="text_25">25S</string>
+    <string name="text_30">30S</string>
+    <string name="text_charged">Charged</string>
+    <string name="text_network">Network</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
 </resources>
